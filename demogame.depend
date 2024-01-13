@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1699337567 source:d:\full stack guru\temp\projects\game\demogame\demogame.c
+	<stdio.h>
+	<stdlib.h>
+	"demogame.h"
+	<time.h>
+
+1699600086 source:d:\full stack guru\temp\projects\game\demogame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"demogame.h"
+
+1699459865 d:\full stack guru\temp\projects\game\demogame\demogame.h
+
